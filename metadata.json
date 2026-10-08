@@ -1,0 +1,6 @@
+{
+  "name": "35mm - Photography Portfolio | Skifter Bytyqi",
+  "description": "Responsive editorial photography portfolio featuring 35mm automotive, landscape, architectural, and street photography by Skifter Bytyqi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
